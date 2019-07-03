@@ -72,12 +72,14 @@
 
 ```
 static		默认
-relative	定位
+relative	相对定位
 absolute	相对 父元素 绝对定位,position 值不是 static 的元素。
 fixed		相对 浏览器 绝对定位
 ```
 
-## 字符串 String
+## JS 标准库
+
+### 字符串 String
 
 | 方法                                                         | 说明                         |
 | ------------------------------------------------------------ | ---------------------------- |
@@ -120,7 +122,7 @@ function styleHyphenFormat(propertyName) {
 styleHyphenFormat('borderTop') // 返回'border-top'
 ```
 
-## Math
+### Math
 
 | 属性       | 说明                    | 举例          |
 | ---------- | ----------------------- | ------------- |
@@ -130,7 +132,7 @@ styleHyphenFormat('borderTop') // 返回'border-top'
 | abs( x )   | 返回 x 绝对值           |               |
 | random( )  | 生成 0 - 1 随机小数     |               |
 
-## Date
+### Date
 
 ```javascript
 let time = function(z) {
@@ -152,7 +154,6 @@ let time = function(z) {
 }
 time() //载入时间对象 否则为当前时间
 ```
-
 
 
 ## 事件
