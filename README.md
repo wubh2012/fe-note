@@ -14,6 +14,8 @@
 
 [面试图谱 InterviewMap](https://yuchengkai.cn/docs/)
 
+[jQuery 在线手册](http://hemin.cn/jq/) [jQuery API 中文文档](https://www.jquery123.com/)
+
 ## HTML
 
 [RGB颜色值与16进制颜色转换](https://www.sioe.cn/yingyong/yanse-rgb-16/)
