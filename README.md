@@ -12,7 +12,7 @@
 
 [Learn X in Y Minutes Program](https://learnxinyminutes.com/)
 
-[面试图谱 InterviewMap](https://yuchengkai.cn/docs/)
+[面试图谱 InterviewMap](https://yuchengkai.cn/docs/frontend/) [github地址](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
 
 [jQuery 在线手册](http://hemin.cn/jq/) [jQuery API 中文文档](https://www.jquery123.com/)
 
@@ -23,6 +23,8 @@
 [Can I Use](https://caniuse.com/)
 
 ## CSS工具箱
+
+搜索关键字 xxx generator 或者 xxx css trick
 
 [CSS3 Keyframes Animation Generator](http://cssanimate.com/)
 
@@ -48,7 +50,7 @@
 
 [Flexbox 练习游戏](http://www.flexboxdefense.com/)
 
-## 找图片图标
+## 找图片，图标
 [图标](https://www.iconfont.cn/)
 
 [背景图片](http://www.hituyu.com/)
